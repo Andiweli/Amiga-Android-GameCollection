@@ -1,4 +1,6 @@
-# 🕹️ Amiga Games for Android — Commodore Amiga APK Collection
+# 🕹️ Amiga Games for Android
+
+### Commodore Amiga APK Collection
 
 **Play classic Commodore Amiga 500 games on Android with standalone APKs, Bluetooth gamepad support, touchscreen controls, save states and your own ADF disk images.**
 
@@ -8,15 +10,11 @@
 
 ## 🎮 Available Amiga games
 
-| Title | Amiga year | Genre | ADF files required | Android guide |
-| --- | --- | --- | --- | --- |
-| **Cyberzerk** | 1993 | Top-down science-fiction shooter, 1–2 players | 1 specially supported AmigaDOS ADF | [Cyberzerk for Android](docs/games/CYBERZERK.md) |
-| **Jim Power in Mutant Planet** | 1992 | Run-and-gun / platform game | 2 compatible ADF disks | [Jim Power for Android](docs/games/JIM_POWER.md) |
-| **Zeewolf** | 1994 | 3D helicopter combat / action | 1 compatible ADF | [Zeewolf for Android](docs/games/ZEEWOLF.md) |
-
-### ⬇️ [Download APKs from GitHub Releases](https://github.com/Andiweli/Amiga-Android-GameCollection/releases)
-
-*The download page will contain APKs once they are published. APKs do not include the copyrighted game data.*
+| Title | Amiga year | Genre | ADF files required |
+| --- | --- | --- | --- |
+| **Cyberzerk** | 1993 | Top-down science-fiction shooter, 1–2 players | 1 specially supported AmigaDOS ADF |
+| **Jim Power in Mutant Planet** | 1992 | Run-and-gun / platform game | 2 compatible ADF disks |
+| **Zeewolf** | 1994 | 3D helicopter combat / action | 1 compatible ADF |
 
 ## ✨ Features
 
@@ -41,20 +39,7 @@ Available settings may differ from one game to another.
 4. Import **your own compatible, uncompressed 880 KB Amiga ADF file(s)** using the game's file picker.
 5. Connect a gamepad or use the touchscreen controls and start playing.
 
-**ADF compatibility matters:** Modified and differently packaged disk images may not work. The Cyberzerk Android runtime specifically supports a **single AmigaDOS disk image with the expected game files**, even though the original retail game also appeared on two disks.
-
-📖 See [Detailed installation and ADF troubleshooting](docs/INSTALLATION.md).
-
-## 🕹️ Game-specific Android adaptations
-
-### 💥 [Cyberzerk — Amiga Top-Down Shooter for Android](docs/games/CYBERZERK.md)
-Play the 1993 sci-fi action shooter with controller movement, fire, autofire, smart bombs and support for a second local controller. The app includes save states, remappable controls, on-screen buttons and optional gameplay assists.
-
-### 🚀 [Jim Power in Mutant Planet — Amiga Platform Shooter for Android](docs/games/JIM_POWER.md)
-Play the 1992 Commodore Amiga platform game with tailored jump, duck, fire and autofire controls. Requires two compatible floppy disk images and supports configurable Android input and save states.
-
-### 🚁 [Zeewolf — Amiga Helicopter Combat for Android](docs/games/ZEEWOLF.md)
-Fly the 1994 3D helicopter action game with controller movement and **right-stick mouse aiming**. Adjustable input, save states and dedicated performance modes make the classic easier to enjoy on Android.
+**ADF compatibility matters:** Modified and differently packaged disk images may not work.
 
 ## ⚙️ Android requirements
 
@@ -88,15 +73,6 @@ Yes. Each app includes configurable on-screen controls.
 
 **Is the project open source?**  
 No. Only compiled APKs and documentation are published at present.
-
-## 📚 Documentation
-
-- [📲 Installation and ADF requirements](docs/INSTALLATION.md)
-- [💥 Cyberzerk for Android — controls and setup](docs/games/CYBERZERK.md)
-- [🚀 Jim Power in Mutant Planet for Android — controls and setup](docs/games/JIM_POWER.md)
-- [🚁 Zeewolf for Android — controls and speed settings](docs/games/ZEEWOLF.md)
-- [⚖️ LICENSE.md — binary-only freeware terms](LICENSE.md)
-- [📄 THIRD_PARTY_NOTICES.md — emulator attribution and licensing](THIRD_PARTY_NOTICES.md)
 
 ## ⚖️ Copyright and licensing
 

@@ -5,8 +5,7 @@
 ![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)
 ![32-bit not supported](https://img.shields.io/badge/32--bit-Not_supported-lightgrey)
 ![64-bit supported](https://img.shields.io/badge/64--bit-Supported-blue)
-![Touch controls supported](https://img.shields.io/badge/Touch-Controls_supported-blueviolet)
-![Gamepad supported](https://img.shields.io/badge/Gamepad-Supported-blueviolet)
+![Controls: Touch & Controller](https://img.shields.io/badge/Controls-Touch%20%26%20Controller-blueviolet)
 
 **Play classic Commodore Amiga 500 games on Android with standalone APKs, Bluetooth gamepad support, touchscreen controls, save states and your own ADF disk images.**
 

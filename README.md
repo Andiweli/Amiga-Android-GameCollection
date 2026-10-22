@@ -21,6 +21,8 @@
 | **Jim Power in Mutant Planet** | 1992 | Run-and-gun / platform game | 2 compatible ADF disks |
 | **Zeewolf** | 1994 | 3D helicopter combat / action | 1 compatible ADF |
 
+## 🖥️ Screenshots
+
 ## ✨ Features
 
 - 📱 **Dedicated Android APK and launcher icon for every game**

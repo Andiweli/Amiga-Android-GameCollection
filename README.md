@@ -17,9 +17,10 @@
 
 | Title | Amiga year | Genre | ADF files required |
 | --- | --- | --- | --- |
-| **Cyberzerk** | 1993 | Top-down science-fiction shooter, 1–2 players | 1 specially supported AmigaDOS ADF |
+| **Cyberzerk** | 1993 | Top-down science-fiction shooter, 1–2 players | 1 compatible ADF disk |
 | **Jim Power in Mutant Planet** | 1992 | Run-and-gun / platform game | 2 compatible ADF disks |
-| **Zeewolf** | 1994 | 3D helicopter combat / action | 1 compatible ADF |
+| **Risky Woods** | 1992 | platform game | 2 compatible ADF disks |
+| **Zeewolf** | 1994 | 3D helicopter combat / action | 1 compatible ADF disk |
 
 ## 🖥️ Screenshots
 
